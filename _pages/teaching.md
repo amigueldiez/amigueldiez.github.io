@@ -1,10 +1,10 @@
 ---
 layout: page
 permalink: /teaching/
-title: docencia
-description: Listado de todas las asignaturas en las que he impartido docencia.
+title: teaching
+description: Subjects and materials taught by Alberto
 nav: true
-nav_order: 6
+nav_order: 4
 ---
 
 # 2024/2025
