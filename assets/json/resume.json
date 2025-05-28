@@ -20,7 +20,7 @@
       "url": "https://www.unileon.es",
       "startDate": "2024-09-01",
       "summary": "Lecturer in various undergraduate and master's programs at the University of León.",
-      "highlights": ["Teaching in cybersecurity, robotics and artificial intelligence programs"]
+      "highlights": ["Teaching in cybersecurity and artificial intelligence programs"]
     },
     {
       "name": "Grupo de Robótica - Universidad de León",
@@ -28,7 +28,7 @@
       "url": "https://www.unileon.es/grupo-robotica",
       "startDate": "2024-03-01",
       "summary": "Researcher in cybersecurity for robotics, working on R&D projects funded by INCIBE.",
-      "highlights": ["Network traffic anomaly detection", "Pentesting robotic platforms"]
+      "highlights": ["Network traffic anomaly detection"]
     },
     {
       "name": "SCAYLE - Supercomputación Castilla y León",
@@ -83,14 +83,26 @@
       "studyType": "Master",
       "startDate": "2023-09-01",
       "endDate": "2024-07-01",
-      "score": "9.51",
-      "courses": ["Online machine learning for anomaly detection"]
+      "score": "9.51"
+    },
+    {
+      "institution": "Universidad de León",
+      "area": "Computer Engineering",
+      "studyType": "Bachelor",
+      "startDate": "2019-09-01",
+      "endDate": "2023-07-01",
+      "score": "9.25"
     }
   ],
   "awards": [
     {
-      "title": "Premio Extraordinario Fin de Máster",
+      "title": "Extraordinary master's degree award",
       "date": "2024-07-01",
+      "awarder": "Universidad de León"
+    },
+    {
+      "title": "Extraordinary bachelor's degree award",
+      "date": "2023-07-01",
       "awarder": "Universidad de León"
     },
     {
@@ -125,7 +137,11 @@
     },
     {
       "language": "French",
-      "fluency": "Professional working proficiency"
+      "fluency": "B2"
+    },
+    {
+      "language": "English",
+      "fluency": "B2 (non-official)"
     }
   ]
 }
