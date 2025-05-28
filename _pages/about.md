@@ -27,9 +27,9 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-Graduado en Ingeniería Informática y Máster en Investigación en Ciberseguridad por la [Universidad de León](https://www.unileon.es/). Actualmente, soy Técnico Superior de Investigación en el [Grupo de Robótica](https://robotica.unileon.es/) de la misma universidad, donde participa en varios proyectos de ciberseguridad.
+Alberto Miguel Diez received the B.S. degree in Computer Engineering in 2023 and the M.S. degree in Cybersecurity Research in 2024, both from the [University of León](https://www.unileon.es/), Spain. He is currently pursuing the Ph.D. degree in Production and Computer Engineering at the same university, which he began in 2024.
 
-TODO
+He works as a  Researcher in the Robotics Research Group at the University of León, where he also teaches courses in both undergraduate and master's programs. His research interests include machine learning for cybersecurity and online anomaly detection in network traffic.
 
 
 <!-- Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
