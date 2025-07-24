@@ -9,6 +9,7 @@ profile:
   image: foto_perfil.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
+    <p>amigd [at] unileon [dot] es</p>
     <p>Universidad de León</p>
     <p>Campus de Vegazana s/n</p>
     <p>24071 - León</p>
