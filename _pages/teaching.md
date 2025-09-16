@@ -23,3 +23,10 @@ nav_order: 4
 - [Certificate of Continuing Education in Cybersecurity](https://www.unileon.es/estudiantes/oferta-academica/titulos-propios/oferta/certificado-formacion-permanente-ciberseguridad) at the University of León.
 - [Cybersecurity Awareness Course for Companies](https://cyberworking.es/) organized by Cyberworking.
 
+# Advisory of MSc and BSc
+
+- *Análisis del malware: Virlock*. Daniel Cano Pérez. Master's degree in Business Intelligence and Big Data in Cyber-Secure
+Environments. Course 2024/2025.
+- *Análisis de malware: Estudio de la familia LostTrust*. Mourad Daoudi El Maghat. Master's degree in Cybersecurity Research. Course 2024/2025.
+- *Análisis del ransomware: CoinLocker*. Javier del Amo Mateos. Master's degree in Cybersecurity Research. Course 2024/2025.
+- *Automatización de Análisis Dinámico de Malware con Cape Sandbox*. Saúl Corrales Fernández. Master's degree in Cybersecurity Research. Course 2024/2025.
