@@ -37,7 +37,18 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/teaching/";
           },
-        },{id: "post-hola",
+        },{id: "post-noche-europea-de-los-investigadores-2025",
+        
+          title: "Noche Europea de los Investigadores 2025",
+        
+        description: "Asistencia a la Noche Europea de los Investigadores 2025 organizada por la Universidad de León.",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2025/noche-investigadores/";
+          
+        },
+      },{id: "post-hola",
         
           title: "Hola!",
         
