@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Noche Europea de los Investigadores 2025
-date: 2025-10-01 14:00:00
+date: 2025-10-1 14:00:00
 description: Asistencia a la Noche Europea de los Investigadores 2025 organizada por la Universidad de León.
 tags: difusion, eventos
 categories: messages
