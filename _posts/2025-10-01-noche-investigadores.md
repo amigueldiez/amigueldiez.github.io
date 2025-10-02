@@ -13,6 +13,6 @@ El 26 de septiembre de 2025 participé por primera vez en la Noche Europea de lo
 Allí pudimos contar un poquito los proyectos actuales que estamos haciendo en el Grupo Robótica Universidad de León 🤖 y enseñar los "juguetes" con los que contamos 😉.
 
 
-![Noche Europea de los Investigadores 2025](assets/img/posts/2025-10-01/Noche_ciencia_1.jpg)
+![Noche Europea de los Investigadores 2025](/assets/img/posts/2025-10-01/Noche_ciencia_1.jpg)
 
-![Noche Europea de los Investigadores 2025](assets/img/posts/2025-10-01/Noche_ciencia_2.jpg)
+![Noche Europea de los Investigadores 2025](/assets/img/posts/2025-10-01/Noche_ciencia_2.jpg)
