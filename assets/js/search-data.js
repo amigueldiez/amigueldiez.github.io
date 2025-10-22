@@ -37,7 +37,18 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/teaching/";
           },
-        },{id: "post-noche-europea-de-los-investigadores-2025",
+        },{id: "post-cisis-2025",
+        
+          title: "CISIS 2025",
+        
+        description: "Asistencia a la 18th International Conference on Computational Intelligence in Security for Information Systems",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2025/cisis-2025/";
+          
+        },
+      },{id: "post-noche-europea-de-los-investigadores-2025",
         
           title: "Noche Europea de los Investigadores 2025",
         
