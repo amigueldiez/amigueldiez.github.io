@@ -7,6 +7,15 @@ nav: true
 nav_order: 4
 ---
 
+
+# Course 2025/2026
+
+TBA
+
+## Courses / workshops (non-official training)
+
+- [DevSecOps: Basics and Practice](https://extensionuniversitaria.unileon.es/cursos-y-matriculas/storage/9095/951db4169b02906e9a11b3693675cac5.pdf) at the University of León.
+
 # Course 2024/2025
 
 - [Machine learning](https://www.unileon.es/estudiantes/oferta-academica/masteres/mu-robotica-e-inteligencia-artificial/plan-estudios?id=1751004&cursoa=2024&te=M) in the Master's Degree in Robotics and Artificial Intelligence at the University of León.
@@ -17,8 +26,6 @@ nav_order: 4
 - [Automated Booking Systems](https://www.unileon.es/estudiantes/oferta-academica/grados/grado-en-turismo/plan-estudios?id=0514029&cursoa=2024&te=G) in the Bachelor's Degree in Tourism at the University of León.
 
 ## Courses / workshops (non-official training)
-
-
 
 - [Certificate of Continuing Education in Cybersecurity](https://www.unileon.es/estudiantes/oferta-academica/titulos-propios/oferta/certificado-formacion-permanente-ciberseguridad) at the University of León.
 - [Cybersecurity Awareness Course for Companies](https://cyberworking.es/) organized by Cyberworking.
