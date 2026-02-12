@@ -10,7 +10,8 @@ nav_order: 4
 
 # Course 2025/2026
 
-TBA
+- [Computer Organization](https://www.unileon.es/estudiantes/oferta-academica/grados/grado-en-ingenieria-informatica/plan-estudios?id=0709008&cursoa=2025&te=G) in the Bachelor's Degree in Informatic Engineering at the University of León.
+- [Automated Booking Systems](https://www.unileon.es/estudiantes/oferta-academica/grados/grado-en-turismo/plan-estudios?id=0514029&cursoa=2025&te=G) in the Bachelor's Degree in Tourism at the University of León.
 
 ## Courses / workshops (non-official training)
 
@@ -34,6 +35,6 @@ TBA
 
 - *Análisis del malware: Virlock*. Daniel Cano Pérez. Master's degree in Business Intelligence and Big Data in Cyber-Secure
 Environments. Course 2024/2025.
-- *Análisis de malware: Estudio de la familia LostTrust*. Mourad Daoudi El Maghat. Master's degree in Cybersecurity Research. Course 2024/2025.
+- *Análisis de malware: Estudio de la familia LostTrust*. Mourad Daoudi El Maghat. Bachelor’s degree in Informatics Engineering. Course 2024/2025.
 - *Análisis del ransomware: CoinLocker*. Javier del Amo Mateos. Master's degree in Cybersecurity Research. Course 2024/2025.
 - *Automatización de Análisis Dinámico de Malware con Cape Sandbox*. Saúl Corrales Fernández. Master's degree in Cybersecurity Research. Course 2024/2025.
