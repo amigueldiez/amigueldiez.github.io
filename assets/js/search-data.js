@@ -30,7 +30,18 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/teaching/";
           },
-        },{id: "post-cisis-2025",
+        },{id: "post-visitando-la-tele-con-pac-0-unitree-g1",
+        
+          title: "Visitando la tele con PAC-0 (Unitree G1)",
+        
+        description: "Vídeos y fotos de mi visita a 987TV con PAC-0 para promocionar nuestra participación en el XXXII Concierto de Música de Semana Santa de la agrupación musical de Angustias y Soledad",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2026/semana-santa/";
+          
+        },
+      },{id: "post-cisis-2025",
         
           title: "CISIS 2025",
         
@@ -82,6 +93,9 @@ ninja.data = [{
           description: "",
           section: "News",},{id: "news-a-systematic-literature-review-of-unsupervised-learning-algorithms-for-anomalous-traffic-detection-based-on-flows-is-published-on-logic-journal-of-the-igpl-boom",
           title: 'A systematic literature review of unsupervised learning algorithms for anomalous traffic detection based...',
+          description: "",
+          section: "News",},{id: "news-new-paper-accepted-in-the-19th-international-conference-on-computational-intelligence-in-security-for-information-systems-cisis-2026",
+          title: 'New paper accepted in the 19th International Conference on Computational Intelligence in Security...',
           description: "",
           section: "News",},{id: "projects-project-1",
           title: 'project 1',
