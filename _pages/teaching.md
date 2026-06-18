@@ -40,3 +40,4 @@ Environments. Course 2024/2025.
 - *Análisis del ransomware: CoinLocker*. Javier del Amo Mateos. Master's degree in Cybersecurity Research. Course 2024/2025.
 - *Automatización de Análisis Dinámico de Malware con Cape Sandbox*. Saúl Corrales Fernández. Master's degree in Cybersecurity Research. Course 2024/2025.
 - *Análisis técnico del ransomware Akira*. Samuel Gil López. Bachelor’s degree in Informatics Engineering. Course 2025/2026.
+
