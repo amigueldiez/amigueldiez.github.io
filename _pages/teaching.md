@@ -16,6 +16,7 @@ nav_order: 4
 ## Courses / workshops (non-official training)
 
 - [DevSecOps: Basics and Practice](https://extensionuniversitaria.unileon.es/cursos-y-matriculas/storage/9095/951db4169b02906e9a11b3693675cac5.pdf) at the University of León.
+- [Cybersecurity from an interdisciplinary perspective](https://extensionuniversitaria.unileon.es/cursos-y-matriculas/storage/16949/cda476463b94dbd31f4a9f0100516ba2.pdf) at the University of León.
 
 # Course 2024/2025
 
