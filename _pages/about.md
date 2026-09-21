@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Afiliación</a>. Grupo de Robótica de la Universidad de León.
+subtitle: <a href='#'>Affiliation</a>. Robotics Group of the University of León.
 
 profile:
   align: right
